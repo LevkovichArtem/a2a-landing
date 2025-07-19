@@ -18,6 +18,9 @@ export default function Home() {
           >
             Get in touch
           </a>
+          <p className="mt-2 text-sm text-gray-300">
+            Or send an email to <span className="underline">hello@a2a-solutions.pl</span>
+          </p>    
         </div>
         <footer className="absolute bottom-0 left-0 right-0 text-center py-4 text-sm text-white bg-black bg-opacity-70">
           © {new Date().getFullYear()} A2A Solutions. All rights reserved.
