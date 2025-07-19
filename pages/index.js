@@ -80,6 +80,34 @@ export default function Home() {
           </p>
         </div>
       </section>
+
+      {/* Portfolio Section */}
+      <section className="py-20 px-6 md:px-12 bg-gray-100 text-gray-900">
+        <div className="max-w-6xl mx-auto">
+          <h2 className="text-4xl md:text-5xl font-bold mb-12 text-center">Portfolio</h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="text-center">
+              <a href="https://apps.apple.com/us/app/call-recorder-record-calls/id6449776135" target="_blank" rel="noopener noreferrer">
+                <img src="/portfolio/call-recorder.png" alt="AI Call Recorder" className="rounded shadow-lg mb-4" />
+                <h3 className="text-xl font-semibold text-green-600">AI Call Recorder</h3>
+              </a>
+            </div>
+            <div className="text-center">
+              <a href="https://apps.apple.com/us/app/ai-homework-helper/id6450879053" target="_blank" rel="noopener noreferrer">
+                <img src="/portfolio/ai-homework.png" alt="AI Homework" className="rounded shadow-lg mb-4" />
+                <h3 className="text-xl font-semibold text-green-600">AI Homework</h3>
+              </a>
+            </div>
+            <div className="text-center">
+              <a href="https://apps.apple.com/us/app/ai-photo-to-song-maker/id6472982726" target="_blank" rel="noopener noreferrer">
+                <img src="/portfolio/photo-song.png" alt="AI Photo Song Maker" className="rounded shadow-lg mb-4" />
+                <h3 className="text-xl font-semibold text-green-600">AI Photo Song Maker</h3>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
     </div>
   );
 }
