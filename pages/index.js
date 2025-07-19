@@ -31,7 +31,7 @@ export default function Home() {
             Grounded in experience, powered by AI
           </h2>
           <p className="text-lg leading-relaxed mb-4">
-            We’re not newcomers riding the latest trend — we’ve been building
+            We’re not newcomers riding the latest trend - we’ve been building
             software for over <strong>12 years</strong>, with a strong
             foundation in <strong>mobile development</strong>, full-stack
             delivery, and long-term support.
@@ -40,7 +40,7 @@ export default function Home() {
             Now, we combine that deep engineering expertise with the latest in{" "}
             <strong>AI-assisted tools</strong> and{" "}
             <strong>prototyping workflows</strong>, enabling us to move faster
-            than ever — without compromising on quality.
+            than ever - without compromising on quality.
           </p>
           <ul className="list-disc pl-6 text-lg mb-4 space-y-2">
             <li>
@@ -71,11 +71,11 @@ export default function Home() {
           </ul>
           <p className="text-lg leading-relaxed font-semibold">
             Most MVPs we build go from idea to a live product in under{" "}
-            <strong>2 weeks</strong> — fully functional, testable, and often
+            <strong>2 weeks</strong> - fully functional, testable, and often
             already launched to the market.
           </p>
           <p className="text-lg leading-relaxed mt-4">
-            We don’t just build fast — we build right. And we stay with you
+            We don’t just build fast - we build right. And we stay with you
             beyond launch, ensuring your product evolves with confidence.
           </p>
         </div>
