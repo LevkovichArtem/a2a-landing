@@ -21,10 +21,8 @@ export default function Home() {
           <p className="mt-2 text-sm text-gray-300">
             Or send an email to <span className="underline">hello@a2a-solutions.pl</span>
           </p>
-          <p className="mt-4 text-sm text-gray-200 max-w-xl text-center">
-  A visual beats a thousand words —<br />
-  send us your draft, and we’ll quickly return with a
-  <span className="text-green-400 font-semibold"> ⚡ working prototype</span> to kickstart your vision.
+          <p className="mt-4 text-sm bg-green-100 text-green-800 font-semibold px-4 py-3 rounded-lg max-w-xl mx-auto text-center shadow-sm">
+  A visual beats a thousand words - send us your draft, and we’ll quickly return with a ⚡ working prototype to kickstart your vision.
 </p>
         </div>
         <footer className="absolute bottom-0 left-0 right-0 text-center py-4 text-sm text-white bg-black bg-opacity-70">
