@@ -13,11 +13,11 @@ export default function Home() {
             Your trusted partner in building scalable digital products.
           </p>
           <a
-            href="mailto:hello@a2a-solutions.pl"
-            className="mt-6 inline-block px-6 py-3 bg-white text-black font-semibold rounded hover:bg-gray-200 transition"
-          >
-            Get in touch
-          </a>
+  href="mailto:hello@a2a-solutions.pl"
+  className="mt-6 inline-block px-6 py-3 bg-green-400 text-white font-semibold rounded hover:bg-green-500 transition"
+>
+  Get in touch
+</a>
           <p className="mt-2 text-sm text-gray-300">
             Or send an email to <span className="underline">hello@a2a-solutions.pl</span>
           </p>
