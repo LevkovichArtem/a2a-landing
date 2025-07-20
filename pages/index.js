@@ -20,7 +20,12 @@ export default function Home() {
           </a>
           <p className="mt-2 text-sm text-gray-300">
             Or send an email to <span className="underline">hello@a2a-solutions.pl</span>
-          </p>    
+          </p>
+          <p className="mt-4 text-sm text-gray-200 max-w-xl text-center">
+  A visual beats a thousand words —<br />
+  send us your draft, and we’ll quickly return with a
+  <span className="text-green-400 font-semibold"> ⚡ working prototype</span> to kickstart your vision.
+</p>
         </div>
         <footer className="absolute bottom-0 left-0 right-0 text-center py-4 text-sm text-white bg-black bg-opacity-70">
           © {new Date().getFullYear()} A2A Solutions. All rights reserved.
