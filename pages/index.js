@@ -13,13 +13,13 @@ export default function Home() {
             Your trusted partner in building scalable digital products.
           </p>
           <a
-  href="mailto:hello@a2a-solutions.pl"
+  href="mailto:info@a2a-solutions.pl"
   className="mt-6 inline-block px-6 py-3 bg-green-400 text-white font-semibold rounded hover:bg-green-500 transition"
 >
   Get in touch
 </a>
           <p className="mt-2 text-sm text-gray-300">
-            Or send an email to <span className="underline">hello@a2a-solutions.pl</span>
+            Or send an email to <span className="underline">info@a2a-solutions.pl</span>
           </p>
           <p className="mt-4 text-sm bg-green-100 text-green-800 font-semibold px-4 py-3 rounded-lg max-w-xl mx-auto text-center shadow-sm">
   A visual beats a thousand words - send us your draft, and we’ll quickly return with a ⚡ working prototype to kickstart your vision.
